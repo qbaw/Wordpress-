@@ -56,7 +56,7 @@
 }
  
 .icon-facebook-official:before { content: '\e800'; font-size:40px; margin-top:5px; } /* '' */
-.icon-twitter-squared:before { content: '\e801'; font-size:40px; margin-top:5px;font:#fff;} /* '' */
+.icon-twitter-squared:before { content: '\e801'; font-size:40px; margin-top:5px;color:#fff;} /* '' */
 .icon-wordpress:before { content: '\e802'; } /* '' */
 .icon-youtube-squared:before { content: '\e803'; } /* '' */
 .icon-smile:before { content: '\e804'; } /* '' */
