@@ -341,7 +341,7 @@ tile2 {
 	background-color:#303030;
 		width:125px;
 		margin: 5px;
-		
+		float:left;
 		
 }
 }
