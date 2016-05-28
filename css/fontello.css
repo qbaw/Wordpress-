@@ -55,7 +55,7 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-facebook-official:before { content: '\e800'; font-size:30px; } /* '' */
+.icon-facebook-official:before { content: '\e800'; font-size:40px; margin-top:5px; } /* '' */
 .icon-twitter-squared:before { content: '\e801'; } /* '' */
 .icon-wordpress:before { content: '\e802'; } /* '' */
 .icon-youtube-squared:before { content: '\e803'; } /* '' */
