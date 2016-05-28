@@ -331,7 +331,7 @@ tile1 {
 
 		background-color:#999;
 		width:125px;
-		margin: 10px;
+		margin: 5px;
 		float:left;
 		
 	
@@ -340,8 +340,8 @@ tile2 {
 	
 	background-color:#303030;
 		width:125px;
-		margin: 10px;
-		float:left;
+		margin: 5px;
+		
 		
 }
 }
