@@ -327,11 +327,11 @@ footer {
 }
 
 
-img1 {
-margin-right: 15px; 
-margin-bottom: 8px; 
-border: 1px solid silver; 
-background: white; padding: 4px;
-border-radius: 3px;
-box-shadow: 1px 1px 3px silver; 
+tekst {
+
+		margin-top: 10px;
+		margin-right: 10px;
+		margin-bottom: 10px;
+		margin-left: 10px;
+	
 }
