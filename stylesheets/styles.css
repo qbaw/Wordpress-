@@ -330,7 +330,7 @@ footer {
 tile1 {
 
 	
-		width:125px;
+		width:80px;
 		margin: 5px;
 		float:left;
 		
@@ -339,9 +339,16 @@ tile1 {
 tile2 {
 	
 	
-		width:125px;
+		width:80px;
 		margin: 5px;
 		float:left;
 		
 }
+tile3 {
+	
+	
+		width:80px;
+		margin: 5px;
+		float:left;
+		
 }
